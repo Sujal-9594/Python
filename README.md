@@ -1,2 +1,7 @@
 # Python
-Contains Python scripts for Task 1 and Task 2
+Contains Python scripts:
+ASSIGNMENT 1
+ASSIGNMENT 2
+ASSIGNMENT 3
+
+
