@@ -36,4 +36,47 @@ To demonstrate how to:
 * Append to a file using `'a'` (append mode),
 * Read the file content using `'r'` (read mode),
 * Interact with users through input.
+  
+---
+
+
+Assignment 5 Task 1 and 2 
+**Task 1: Student Marks Dictionary**
+
+Functionality:
+
+This program creates a **dictionary** that stores student names as **keys** and their marks as **values**.
+It then asks the user to **enter a student's name**, and the program will:
+
+* **Check** if that name exists in the dictionary.
+* If it exists, it will **display the student's marks**.
+* If it doesn't exist, it will say **"Student not found."**
+
+What it teaches:
+
+* How to create and use dictionaries.
+* How to get input from the user.
+* How to use `if` statements to check keys in a dictionary.
+
+---
+
+**Task 2: List Slicing and Reversing**
+
+ Functionality:
+
+This program creates a list of numbers from **1 to 10**.
+It then:
+
+1. **Extracts the first 5 elements** from the list using **list slicing**.
+2. **Reverses** that extracted list using slicing or another method.
+3. **Displays** the original list, sliced list, and reversed list.
+
+ What it teaches:
+
+* How to create and slice lists.
+* How to reverse a list.
+* How to use list indexing and slicing features in Python.
+
+---
+
 
